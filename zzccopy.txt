@@ -1,0 +1,3 @@
+This is zzc.txt
+2nd line of file
+end of file

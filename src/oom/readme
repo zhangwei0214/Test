@@ -1,0 +1,3 @@
+可以通过JDK自带的内存分析工具
+1) 连接正在运行的java进程(jconsole, jvisualvm, jmap(命令行) )  -> 面试会问怎么定位OOM错误
+2) 分析java dump文件
